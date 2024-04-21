@@ -13,15 +13,15 @@
   <h2>Programming languages that I use</h2>
   <h4>Python, Java</h4>
 <br>
-  <h2>Front-end languages that I use</h2>
+  <h2>Front-end languages</h2>
   <h4>HTML, CSS</h4>
 <br>
   
-  <h2>Back-end languages that I use</h2>
+  <h2>Back-end languages</h2>
   <h4>PHP</h4>
 <br>
   
-  <h2>Other tools that I use</h2>
+  <h2>Other tools</h2>
   <h4>MySQL, PostgreSQL, Git and Github, Adobe Ilustrator, Corel Draw and the office package </h4>
 </div>
 <br>
