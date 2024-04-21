@@ -28,8 +28,9 @@
 
 <div align="center" id="myYoutubeChannel">
   <h1>My Youtube Channel</h1>
-  <img src="">
-  <a href="https://www.youtube.com/channel/UCl_gt8glUhVvL3TBv63y0qw">LotusProg    <---Click Here😉 </a>
+  <img src="https://yt3.googleusercontent.com/HdlJhk6S-zn__k8EhU7-s95iA3RSEMbMr7QKDrpvvJ4uNPMwAkoltHh-pEeTvZNNSPKj-3I3=s176-c-k-c0x00ffffff-no-rj" width="250" id="brr">
+  <br>
+  <h3 ><a href="https://www.youtube.com/channel/UCl_gt8glUhVvL3TBv63y0qw"> LotusProg</a>     <---Click Here😉 </h3>
 </div>
 
 
