@@ -4,7 +4,7 @@
 </div>
 
 <div align= "center" id= "aboutME">
-  <h3>Hi, my name es Andres Felipe Potillo. I'm 18 years old, I'm from colombia and I'm studying software development at the universidad del valle. I have experience un front-end developing and back-end developin. I love learn a little of everything and the hard challenges🌟</h2>
+  <h3>Hi, my name es Andres Felipe Potillo. I'm 18 years old, I'm from colombia and I'm studying software development at the Universidad del Valle. I have experience in front-end development and back-end development. I love learn a little of everything and the hard challenges🌟</h2>
 </div>
 <br>
 <br>
