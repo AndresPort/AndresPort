@@ -2,11 +2,11 @@
   <img src="https://pa1.aminoapps.com/6401/d485c5a6f77eef1d7cfc6cac89ebe75a25d952ba_00.gif" alt="Sunshine GIF" width="200">
   <h1>Did you looking for me?</h1>
 </div>
-<br>
 
 <div align= "center" id= "aboutME">
   <h3>Hi, my name es Andres Felipe Potillo. I'm 18 years old, I'm from colombia and I'm studying software development at the universidad del valle. I have experience un front-end developing and back-end developin. I love learn a little of everything and tge hard challenges</h2>
 </div>
+<br>
 <br>
 
 <div id="programmingLanguages">
