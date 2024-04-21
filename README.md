@@ -4,13 +4,13 @@
 </div>
 
 <div align= "center" id= "aboutME">
-  <h3>Hi, my name es Andres Felipe Potillo. I'm 18 years old, I'm from colombia and I'm studying software development at the universidad del valle. I have experience un front-end developing and back-end developin. I love learn a little of everything and tge hard challenges</h2>
+  <h3>Hi, my name es Andres Felipe Potillo. I'm 18 years old, I'm from colombia and I'm studying software development at the universidad del valle. I have experience un front-end developing and back-end developin. I love learn a little of everything and the hard challenges🌟</h2>
 </div>
 <br>
 <br>
 
 <div id="programmingLanguages">
-  <h2>Programming languages that I use</h2>
+  <h2>💻Programming languages that I use</h2>
   <h4>Python, Java</h4>
 <br>
   <h2>Front-end languages</h2>
