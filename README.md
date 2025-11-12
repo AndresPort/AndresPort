@@ -11,10 +11,9 @@
 
 <div id="programmingLanguages">
   <h2>💻Programming languages that I use</h2>
-<br>
+
   <h2>Front-end languages</h2>
   <h4>HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT</h4>
-<br>
   
   <h2>Back-end languages</h2>
   <h4>JAVA, SPRINGBOOT, NODEJS, NESTJS</h4>
