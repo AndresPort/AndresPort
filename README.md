@@ -4,25 +4,24 @@
 </div>
 
 <div align= "center" id= "aboutME">
-  <h3>Hi, my name es Andres Felipe Potillo. I'm 18 years old, I'm from colombia and I'm studying software development at the Universidad del Valle. I have experience in front-end development and back-end development. I love learn a little of everything and the hard challenges🌟</h2>
+  <h3>Hi, my name es Andres Felipe Potillo. I'm 20 years old, I'm from colombia and I'm studying software development at the Universidad del Valle. I have experience in front-end development back-end development, UI/UX Design and design and creation of sql databases. I love learn a little of everything and the hard challenges🌟</h2>
 </div>
 <br>
 <br>
 
 <div id="programmingLanguages">
   <h2>💻Programming languages that I use</h2>
-  <h4>Python, Java</h4>
 <br>
   <h2>Front-end languages</h2>
-  <h4>HTML, CSS</h4>
+  <h4>HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT</h4>
 <br>
   
   <h2>Back-end languages</h2>
-  <h4>PHP</h4>
+  <h4>JAVA, SPRINGBOOT, NODEJS, NESTJS</h4>
 <br>
   
   <h2>Other tools</h2>
-  <h4>MySQL, PostgreSQL, Git and Github, Adobe Ilustrator, Corel Draw and the office package </h4>
+  <h4>MySQL, PostgreSQL, Git and Github, Adobe Ilustrator, Corel Draw and the office package, Postman, Figma, Jira</h4>
 </div>
 <br>
 
